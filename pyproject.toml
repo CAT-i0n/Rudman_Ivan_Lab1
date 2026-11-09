@@ -18,6 +18,7 @@ dependencies = [
     "lckr-jupyterlab-variableinspector>=3.2.4",
     "litellm<1.106",
     "matplotlib>=3.11.2",
+    "nbconvert[webpdf]>=7.17.2",
     "notebook-intelligence>=6.3.0",
     "numpy>=2.5.4",
     "pandas>=3.1.0",
